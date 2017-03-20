@@ -1,6 +1,6 @@
 @component('layouts.elements.body')
 @slot('title') Tutor @endslot
-@slot('description') Administdação de Tutores @endslot
+@slot('description') Administração de Tutores @endslot
 
 <a href="{{ route('tutor.create') }}" class="btn btn-default">Adicionar</a>
 
