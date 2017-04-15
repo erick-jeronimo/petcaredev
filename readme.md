@@ -1,40 +1,11 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+# Petcare
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+Uma plataforma de serviços para clinicas de pets. 
 
-## About Laravel
+O Mercado mundial de animais de estimação movimenta US$ 98,4 bilhões por ano. Brasil ocupa o segundo lugar, atrás dos EUA Com uma população de 106 milhões de animais de estimação no Brasil, o que não falta é demanda para que empresas do setor pet cresçam e apareçam. Além das tradicionais pet shops e lojas especializadas, surgem nichos de mercado que abrem espaço para micro, pequenas e médias empresas em todo o país. Dados da Associação Brasileira da Indústria de Produtos para Animais de Estimação (Abinpet), mostram que, em 2014, o setor movimentou R$ 16 bilhões, alta de 8,2% ante o ano anterior.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+O segmento de pet food (alimentação) lidera a lista de atividades que fazem parte deste universo, seguida pelo setor de serviços, cuidados com animais — que vão de equipamentos a acessórios e produtos para higiene. O setor veterinário também está entre os que puxam o crescimento deste mercado no país, considerado o segundo maior da indústria pet no mundo, atrás dos Estados Unidos e à frente do Reino Unido, França e Alemanha.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Do universo de empresas que atua no segmento, 33,5 mil são de pequenas e médias empresas, isso apenas no varejo de pet shops, segundo dados do Instituto Pet Brasil. Mas não são poucas as que investem na diversificação de produtos e serviços.
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
-
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Diante deste mercado em ascenção, surge a ideia para o projeto de aplicativo denominado “Petcare”, trazendo a proposta de ser uma plataforma de serviços para clinicas de pets. Por meio do aplicativo, será possível que as clinicas ofereçam serviços aos seus clientes, tais como monitoramento e gerenciamento dos cuidados de saúde dos pets; uso de registro de medicamentos; vacinas e antipulgas; registro de consultas; listagem de clinicas veterinárias; datas de vacinas; dentre outros.
